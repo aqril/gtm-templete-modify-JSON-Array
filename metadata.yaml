@@ -1,5 +1,5 @@
 homepage: "https://qiita.com/aqril_1132"
 documentation: "https://qiita.com/aqril_1132/documentation"
 versions:
-  - sha: 
+  - sha: 0436e1b62d60a4b31f66ef1d52a75786fcd30650
     changeNotes: Initial release.
