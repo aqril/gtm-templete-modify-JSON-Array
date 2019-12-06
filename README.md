@@ -1,1 +1,2 @@
 # gtm-templete-modify-JSON-Array
+GTMで取得したJSON配列ライクな配列変数のキー名と値のフォーマットを変更する変数テンプレート
